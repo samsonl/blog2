@@ -8,3 +8,5 @@ fields:
   label: l1
   default: d1
   description: d1
+pages:
+- _posts/t1.md
