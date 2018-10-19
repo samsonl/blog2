@@ -1,0 +1,10 @@
+---
+label: t1
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+  name: l1
+  label: l1
+  default: d1
+  description: d1
