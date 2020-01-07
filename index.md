@@ -5,4 +5,4 @@ MISTER
 
 [pagex]
 
-[Link to a document]({{ site.baseurl }}{% link _collection/pagex.md %})
+[Link to a document]({{ site.baseurl }}{% link pagex.md %})
